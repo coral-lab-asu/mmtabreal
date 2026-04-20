@@ -13,7 +13,7 @@ This guide explains how to deploy a Vite + React project to GitHub Pages and upd
 ### 1. Clone your repository:
 
 ```bash
-git clone https://github.com/prasham1515/mmtabreal-website.git
+git clone https://github.com/coral-lab-asu/mmtabreal.git
 cd <repo-name>
 ```
 ### 2. Edit vite.config.ts
@@ -22,7 +22,7 @@ Set the base path to your repository name:
 
 ```bash
 export default defineConfig({
-  base: "/mmtabreal-website/",
+  base: "/mmtabreal/",
   server: {
     host: "::",
     port: 8080,
