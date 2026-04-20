@@ -77,7 +77,7 @@ const HeroSection = () => {
               <FileText className="w-4 h-4" />
               Paper
             </a>
-            <a href="https://github.com/prasham1515/MMTabReal" target="_blank" rel="noopener noreferrer" className="paper-link-outline">
+            <a href="https://github.com/CoRAL-ASU/MMTabReal" target="_blank" rel="noopener noreferrer" className="paper-link-outline">
               <Github className="w-4 h-4" />
               Code
             </a>
