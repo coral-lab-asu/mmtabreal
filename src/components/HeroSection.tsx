@@ -73,7 +73,7 @@ const HeroSection = () => {
 
           {/* Action buttons */}
           <div className="flex flex-wrap justify-center gap-3">
-            <a href="#" target="_blank" rel="noopener noreferrer"className="paper-link">
+            <a href="https://arxiv.org/abs/2505.21771" target="_blank" rel="noopener noreferrer"className="paper-link">
               <FileText className="w-4 h-4" />
               Paper
             </a>

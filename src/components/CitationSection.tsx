@@ -1,7 +1,15 @@
 import { useState } from "react";
 import { Copy, Check } from "lucide-react";
 
-const bibtex = ``;
+const bibtex = `@misc{titiya2026mmtabrealrealworldbenchmarkmultimodal,
+      title={MMTABREAL: Real-World Benchmark for Multimodal Table Understanding}, 
+      author={Prasham Titiya and Jainil Trivedi and Chitta Baral and Vivek Gupta},
+      year={2026},
+      eprint={2505.21771},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.21771}, 
+}`;
 
 const CitationSection = () => {
   const [copied, setCopied] = useState(false);
